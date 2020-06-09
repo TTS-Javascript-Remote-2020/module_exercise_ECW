@@ -1,0 +1,25 @@
+{
+  "name": "module_exercise_ecw",
+  "version": "1.0.0",
+  "description": "TTS JS App Dev Homework 06.02.2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TTS-Javascript-Remote-2020/module_exercise_ECW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TTS-Javascript-Remote-2020/module_exercise_ECW/issues"
+  },
+  "homepage": "https://github.com/TTS-Javascript-Remote-2020/module_exercise_ECW#readme",
+  "dependencies": {
+    "moment": "^2.26.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
